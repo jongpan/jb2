@@ -1,1 +1,3 @@
 git clone https://github.com/jongpan/jb2.git
+# ZIP 압축 (Windows 사용자는 폴더 우클릭 → 압축)
+zip -r jb2-extension.zip . -x ".*" -x "*/.*"
